@@ -1,0 +1,823 @@
+'NoneType' object is not subscriptable
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+click() got an unexpected keyword argument 'confidence'
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+cannot unpack non-iterable NoneType object
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+cannot unpack non-iterable NoneType object
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+screen grab failed
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
